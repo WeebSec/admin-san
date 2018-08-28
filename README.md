@@ -3,5 +3,8 @@
 
 This is the official and only repository of the Admin-san project.
 
-Written by: <a href="https://github.com/orgs/WeebSec/people/FuzzyRabbit">TheFuzzyRabbit</a>
+Written by: [TheFuzzyRabbit](https://github.com/FuzzyRabbit)
+
+
+
 Asynchronous Admin Panel Finder
