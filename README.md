@@ -33,7 +33,7 @@ $ python3 admin-san.py
 ```
 
 ### ScreenShot
-[!shot](https://github.com/WeebSec/admin-san/blob/master/imgs/ss.png)
+![shot](https://github.com/WeebSec/admin-san/blob/master/imgs/ss.png)
 
 
 
